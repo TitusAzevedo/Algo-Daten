@@ -1,6 +1,6 @@
 ## Rekursive Funktionen
 ### Rekursion
-#Rekursion 
+#Rekursion #Algorithmus 
 Eine Funktion die sich selbst aufruft. Der Durchlauf wird stapelartig aufgebaut und abgerabeitet.
 
 -> direkt

@@ -23,3 +23,5 @@ Arten der Traversierung:
 -	Preorder; erzeugt eine Liste, die beim Einlesen denselben Baum erzeugt
 -	Postorder; liefert die Postfix-Notation des arithmetischen Ausdrucks, welcher durch einen Binärbaum repräsentiert wird
 -	Levelorder; Beginnend bei der Wurzel Ebenen weise ausgegeben 
+
+![[Pasted image 20220713115226.png]]
