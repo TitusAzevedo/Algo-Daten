@@ -7,11 +7,8 @@
         "id": "1e01e4025a1f66d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Datenstrukturen/Binärer Suchbaum.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen/Binärer Suchbaum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenstrukturen/Binärer Suchbaum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +107,7 @@
   },
   "active": "1e01e4025a1f66d9",
   "lastOpenFiles": [
+    "README.md",
     "Datenstrukturen/Binärer Suchbaum.md",
     "Datenstrukturen/Bäume.md",
     "Datenstrukturen.md",
@@ -120,7 +116,6 @@
     "Algorithmen/Euklid (ggT).md",
     "index.md",
     "Algorithmen/Pascalsches Dreieck.md",
-    "Algorithmen/Tower of Hanoi.md",
-    "Algorithmen/Fibonacci.md"
+    "Algorithmen/Tower of Hanoi.md"
   ]
 }
