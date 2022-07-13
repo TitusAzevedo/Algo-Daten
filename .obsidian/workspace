@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "fd40bef039c64a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e01e4025a1f66d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Datenstrukturen/Binärer Suchbaum.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30526cb52d5cfa6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7955457741aac63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58471e2ebce0435f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5a45ac949388b2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Algorithmus",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 178
+  },
+  "right": {
+    "id": "a5c3f2ac887db6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "544de4189f171e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26625ecf4b2eab16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Datenstrukturen/Binärer Suchbaum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02b5eac7e9f14082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18d8c88c9d129668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Datenstrukturen/Binärer Suchbaum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1e01e4025a1f66d9",
+  "lastOpenFiles": [
+    "Datenstrukturen/Binärer Suchbaum.md",
+    "Datenstrukturen/Bäume.md",
+    "Datenstrukturen.md",
+    "Algorithmen.md",
+    "Algorithmen/Rekursive Funktionen.md",
+    "Algorithmen/Euklid (ggT).md",
+    "index.md",
+    "Algorithmen/Pascalsches Dreieck.md",
+    "Algorithmen/Tower of Hanoi.md",
+    "Algorithmen/Fibonacci.md"
+  ]
+}
