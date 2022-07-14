@@ -9,8 +9,9 @@ Eigenschaften:
 - Determiniertheit; eindeutiges Ergebnis bei gleichem input
 - Sequentialität / Parallelität
 
-###### Arten von funktionen
+###### Konzepte
 - [[Rekursive Funktionen]]
+- [[Komplexität]]
 
 ###### Liste der Algorithmen
 - [[Euklid (ggT)| Euklid]]
