@@ -14,8 +14,9 @@ Eigenschaften:
 - [[Komplexität]]
 
 ###### Liste der Algorithmen
-- [[Euklid (ggT)| Euklid]]
+- [[Euklid (ggT)|Euklid]]
 - [[Fibonacci]]
 - [[Tower of Hanoi]]
 - [[Pascalsches Dreieck]]
+- [[Sortieralgorithmen]]
 
