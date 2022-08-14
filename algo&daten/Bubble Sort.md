@@ -1,6 +1,7 @@
-## Bubble Sort
+## Bubble Sort 
 
 Sortieren durch direktes Austauschen. Paare werden verglichen und ggf. ausgetauscht. Das größte Element steigt wie eine Luftblase nach oben.
+	→ Komplexität $O(n^2)$
 
 #### Aufbau
 1) äußere Schleife mit der Länge der Liste
