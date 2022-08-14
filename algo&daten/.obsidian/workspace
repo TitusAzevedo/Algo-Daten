@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bubble Sort.md",
+            "file": "Algorithmen/Merge Sort.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178,
-    "collapsed": true
+    "width": 178
   },
   "right": {
     "id": "a5c3f2ac887db6d3",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bubble Sort.md",
+                "file": "Algorithmen/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bubble Sort.md",
+                "file": "Algorithmen/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +112,8 @@
   },
   "active": "1e01e4025a1f66d9",
   "lastOpenFiles": [
+    "Algorithmen/Bubble Sort.md",
+    "Algorithmen/Merge Sort.md",
     "Algorithmen/Sortieralgorithmen.md",
     "Algorithmen.md",
     "Algorithmen/Euklid (ggT).md",
@@ -120,8 +121,6 @@
     "Algorithmen/Komplexität.md",
     "Graphen.md",
     "Datenstrukturen/AVL-Bäume.md",
-    "Datenstrukturen/Binärer Suchbaum.md",
-    "Algorithmen/Pascalsches Dreieck.md",
-    "index.md"
+    "Datenstrukturen/Binärer Suchbaum.md"
   ]
 }
