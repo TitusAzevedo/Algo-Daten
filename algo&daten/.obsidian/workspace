@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithmen/Sortieralgorithmen.md",
+            "file": "Algorithmen/Komplexität.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmen/Sortieralgorithmen.md",
+                "file": "Algorithmen/Komplexität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmen/Sortieralgorithmen.md",
+                "file": "Algorithmen/Komplexität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,8 +112,8 @@
   },
   "active": "1e01e4025a1f66d9",
   "lastOpenFiles": [
-    "Algorithmen.md",
     "Algorithmen/Sortieralgorithmen.md",
+    "Algorithmen.md",
     "Algorithmen/Euklid (ggT).md",
     "Datenstrukturen.md",
     "Algorithmen/Komplexität.md",
