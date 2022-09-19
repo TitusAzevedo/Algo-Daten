@@ -20,3 +20,15 @@ n = 4
 TowerOfHanoi(n,'A','B','C')
 
 ```
+
+### Vollständige Induktion
+
+<u>Behauptung:</u> Aufwand ist $A(n)=2^n-1$
+<u>Induktionsanfang:</u>  $n=1$
+							   $A(1)=2^1-1=2-1=1$
+<u>Induktiontsschritt:</u>
+	<u>Voraussetzung:</u> $m\in N$
+							  $A(m)=2^{m}-1$  
+	<u>Zu Zeigen:</u> $A(m+1)=2^{m+1}-1$
+	<u>Beweis:</u> $A(m+1)=A(m)+1+A(m)=2^m-1+1+2^m-1=2^{m+1}-1$
+	

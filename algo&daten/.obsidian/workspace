@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithmen/Rekursive Funktionen.md",
-            "mode": "preview",
+            "file": "Algorithmen/Pascalsches Dreieck.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmen/Rekursive Funktionen.md",
+                "file": "Algorithmen/Pascalsches Dreieck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmen/Rekursive Funktionen.md",
+                "file": "Algorithmen/Pascalsches Dreieck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,8 @@
   },
   "active": "1e01e4025a1f66d9",
   "lastOpenFiles": [
+    "Algorithmen/Tower of Hanoi.md",
+    "Algorithmen/Rekursive Funktionen.md",
     "Algorithmen.md",
     "Algorithmen/Komplexität.md",
     "conflict-files-obsidian-git.md",
@@ -119,8 +121,6 @@
     "Algorithmen/Euklid (ggT).md",
     "Datenstrukturen.md",
     "Graphen.md",
-    "Datenstrukturen/AVL-Bäume.md",
-    "Datenstrukturen/Binärer Suchbaum.md",
-    "Algorithmen/Pascalsches Dreieck.md"
+    "Datenstrukturen/AVL-Bäume.md"
   ]
 }
