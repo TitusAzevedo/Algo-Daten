@@ -18,7 +18,7 @@
 
 ###### Liste der Datenstrukturen
 - [[Array]]
-- [[Liste-Stack-Queue]]
+- [[Stack-Rechnen]]
 
 ## Nicht lineare Datenstrukturen
 ###### Struktur
