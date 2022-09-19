@@ -6,5 +6,22 @@
       ],
       "key": "L"
     }
+  ],
+  "obsidian-git:commit": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:view-history-on-github": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
   ]
 }
