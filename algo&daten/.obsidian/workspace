@@ -7,8 +7,12 @@
         "id": "1e01e4025a1f66d9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Graphen.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178
+    "width": 239.5
   },
   "right": {
     "id": "a5c3f2ac887db6d3",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +112,15 @@
   },
   "active": "1e01e4025a1f66d9",
   "lastOpenFiles": [
+    "Algorithmen/Hashing.md",
+    "Algorithmen/Bubble Sort.md",
     "Algorithmen/Sortieralgorithmen.md",
     "Graphen.md",
-    "Algorithmen/Bubble Sort.md",
     "index.md",
     "Algorithmen/Komplexität.md",
     "Datenstrukturen/AVL-Bäume.md",
     "Datenstrukturen/Bäume.md",
     "Datenstrukturen/Binärer Suchbaum.md",
-    "Datenstrukturen/Stack-Rechnen.md",
-    "Datenstrukturen.md"
+    "Datenstrukturen/Stack-Rechnen.md"
   ]
 }
