@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithmen/Dijkstra.md",
+            "file": "Algorithmen/Huffman Codierung.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmen/Dijkstra.md",
+                "file": "Algorithmen/Huffman Codierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmen/Dijkstra.md",
+                "file": "Algorithmen/Huffman Codierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,8 @@
   },
   "active": "1e01e4025a1f66d9",
   "lastOpenFiles": [
+    "Algorithmen/Ford-Fulkerson.md",
+    "Algorithmen/Dijkstra.md",
     "Algorithmen/Topologisches Sortieren.md",
     "Algorithmen/Traversieren von Graphen.md",
     "Datenstrukturen/Graphen.md",
@@ -119,8 +121,6 @@
     "img/Pasted image 20221010190332.png",
     "Algorithmen/Hashing.md",
     "Algorithmen/Bubble Sort.md",
-    "Algorithmen/Sortieralgorithmen.md",
-    "index.md",
-    "Algorithmen/Komplexität.md"
+    "Algorithmen/Sortieralgorithmen.md"
   ]
 }
