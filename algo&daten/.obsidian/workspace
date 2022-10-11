@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algorithmen/Traversieren von Graphen.md",
+            "file": "Algorithmen/Topologisches Sortieren.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmen/Traversieren von Graphen.md",
+                "file": "Algorithmen/Topologisches Sortieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmen/Traversieren von Graphen.md",
+                "file": "Algorithmen/Topologisches Sortieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,7 @@
   },
   "active": "1e01e4025a1f66d9",
   "lastOpenFiles": [
+    "Algorithmen/Traversieren von Graphen.md",
     "Datenstrukturen/Graphen.md",
     "Datenstrukturen/Planarer Graph.md",
     "img/Pasted image 20221010190332.png",
@@ -120,7 +121,6 @@
     "Algorithmen/Sortieralgorithmen.md",
     "index.md",
     "Algorithmen/Komplexität.md",
-    "Datenstrukturen/AVL-Bäume.md",
-    "Datenstrukturen/Bäume.md"
+    "Datenstrukturen/AVL-Bäume.md"
   ]
 }
