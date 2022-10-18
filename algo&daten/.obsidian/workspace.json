@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "fd40bef039c64a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "9108d2991cfbef35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e01e4025a1f66d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lempel-Ziv-Wlch-Algorithmus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "752c0e5ad100cebe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30526cb52d5cfa6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7955457741aac63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58471e2ebce0435f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5a45ac949388b2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "a5c3f2ac887db6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "544de4189f171e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26625ecf4b2eab16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lempel-Ziv-Wlch-Algorithmus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02b5eac7e9f14082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18d8c88c9d129668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lempel-Ziv-Wlch-Algorithmus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "752c0e5ad100cebe",
+  "lastOpenFiles": [
+    "Algorithmen/Huffman Codierung.md",
+    "Algorithmen/Ford-Fulkerson.md",
+    "Algorithmen/Dijkstra.md",
+    "Algorithmen/Topologisches Sortieren.md",
+    "Algorithmen/Traversieren von Graphen.md",
+    "Datenstrukturen/Graphen.md",
+    "Datenstrukturen/Planarer Graph.md",
+    "img/Pasted image 20221010190332.png",
+    "Algorithmen/Hashing.md",
+    "Algorithmen/Bubble Sort.md"
+  ]
+}
