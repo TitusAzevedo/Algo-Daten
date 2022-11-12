@@ -23,9 +23,11 @@
             "id": "752c0e5ad100cebe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Algorithmen/Traversieren von Graphen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lempel-Ziv-Wlch-Algorithmus.md",
+                "file": "Algorithmen/Traversieren von Graphen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lempel-Ziv-Wlch-Algorithmus.md",
+                "file": "Algorithmen/Traversieren von Graphen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +136,12 @@
   },
   "active": "752c0e5ad100cebe",
   "lastOpenFiles": [
+    "Datenstrukturen/Graphen.md",
     "Algorithmen/Huffman Codierung.md",
     "Algorithmen/Ford-Fulkerson.md",
     "Algorithmen/Dijkstra.md",
     "Algorithmen/Topologisches Sortieren.md",
     "Algorithmen/Traversieren von Graphen.md",
-    "Datenstrukturen/Graphen.md",
     "Datenstrukturen/Planarer Graph.md",
     "img/Pasted image 20221010190332.png",
     "Algorithmen/Hashing.md",
